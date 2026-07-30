@@ -204,7 +204,7 @@ powerbi-supply-chain-dashboard/
 │   └── purchase_orders.csv
 │
 ├── powerbi/
-│   └── Supply_Chain_Dashboard.pbix
+│   └── Retail_Inventory_Analysis.pbix
 │
 ├── screenshots/
 │   ├── executive_dashboard.png
@@ -234,7 +234,7 @@ A MySQL project focused on inventory, sales, and procurement analysis using SQL.
 Repository:
 
 ```
-https://github.com/USERNAME/sql-inventory-analysis
+https://github.com/nusrat-kashfia/sql-inventory-analysis
 ```
 
 ---
@@ -246,7 +246,7 @@ An interactive Excel dashboard built using Pivot Tables, Pivot Charts, XLOOKUP, 
 Repository:
 
 ```
-https://github.com/USERNAME/excel-inventory-analysis-dashboard
+https://github.com/nusrat-kashfia/excel-inventory-analysis-dashboard
 ```
 
 ---
